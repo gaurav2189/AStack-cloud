@@ -1,6 +1,3 @@
-# PythonFlaskRemoteApp
-Code for blog post: http://codehandbook.org/creating-a-web-app-using-angularjs-python-mongodb/
-
 ## Dependencies 
 
 ### Install MongoDB
